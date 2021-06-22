@@ -1,0 +1,2 @@
+172.24.20.131 *.bankofamerica.com
+172.24.20.131 *.tcpdump.org
